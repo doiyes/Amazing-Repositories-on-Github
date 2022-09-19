@@ -1,6 +1,6 @@
 # Amazing Repositories on GitHub
 
-> 从一个非程序员的角度收集GitHub.Com上实用、有趣的各类程序、资源等等。
+> 从一个非程序员的角度收集GitHub.Com上实用、有趣的各类程序、资源仓库等。
 
 > 编辑中。。。
 
