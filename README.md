@@ -1,4 +1,4 @@
-# Amazing Something on GitHub
+# Amazing Repositories on GitHub
 
 > 从一个非程序员的角度收集GitHub.Com上实用、有趣的各类程序、资源等等。
 
@@ -19,3 +19,9 @@
 - [Xndroid](https://github.com/XndroidDev/Xndroid) A proxy software for Android based on XX-Net and fqrouter. 
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤
 - [Wox](https://github.com/Wox-launcher/Wox) Launcher for Windows, an alternative to Alfred and Launchy. 
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中文诗歌古典文集数据库。
+- [羊了个羊](https://github.com/codeNiuMa/yanglegeyang) - 羊了个羊。 
+- [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) - Windows上优质&精选的最佳应用程序及工具列表。 
+- [GitHub 漫游指南](https://github.com/phodal/github) - GitHub 漫游指南。
+- [README](https://github.com/guodongxiaren/README) - README的各种markdown语法。
+- [chinese-novel](https://github.com/luoxuhai/chinese-novel) -最全的中国古典小说数据库。
